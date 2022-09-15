@@ -5,11 +5,11 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 
 ## I'm a Student, Developer, and Learner!!
 
-- 👀 I’m interested in New Tech, Frontend Development, Python
+- 👀 I’m interested in New Tech, Frontend Development, Backend development
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💞️ Fun Fact: Iron Man Fan😁
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- 💞️ Fun Fact: Marvel fan😁
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
