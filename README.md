@@ -40,7 +40,7 @@ Welcome to Neeraj Rathod's profile! <img src="https://media.giphy.com/media/12ou
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/Neeraj2002/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neeraj2002's streak" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neeraj2002's streak" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)"/>
   </a>
 </p>
 
