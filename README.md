@@ -25,12 +25,7 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/JamieVos991/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neeraj2002's streak" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieVos991&hide=contribs,prs)"/>
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousgrids&theme=radical)
 
 ## 🛠️ My favorite tools
 
