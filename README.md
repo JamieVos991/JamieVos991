@@ -25,7 +25,7 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 
 ## 🔥 Streak stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousgrids&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/apiJamieVos991=curiousgrids&theme=radical)
 
 ## 🛠️ My favorite tools
 
