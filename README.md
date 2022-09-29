@@ -85,6 +85,9 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0078d7.svg?logo=cad&logoColor=white"></a> -->
 </p>
 
+<br>
+<br>
+
 # 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
