@@ -36,7 +36,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 ### 👨‍💻 Programming languages and Frameworks
 
 <p>
-       <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
     <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> 
     <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
@@ -58,6 +57,8 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 ### 💻 Software and tools
 
 <p>
+     <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding right:10px;" />
+  [ <img align="left" alt="Adobe" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding right:10px;" />](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg)
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop%20-%23FF0000.svg?logo=adobe%20photoshop&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
