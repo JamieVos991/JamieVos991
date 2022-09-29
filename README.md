@@ -58,7 +58,7 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 
 <p>
      <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding right:10px;" />
-  [ <img align="left" alt="Adobe" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding right:10px;" />](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg)
+ [ [ <img align="left" alt="Adobe" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding right:10px;" />](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg)
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop%20-%23FF0000.svg?logo=adobe%20photoshop&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
