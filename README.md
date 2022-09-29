@@ -58,7 +58,7 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 
 <p>
      <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple.svg" style="padding right:10px;" />
+  <img align="left" alt="Apple" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding right:10px;" />
   
   
   
