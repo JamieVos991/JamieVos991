@@ -33,7 +33,7 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Programming languages and Frameworks
 
 <p>
        <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -54,20 +54,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 
 <br>
 <br>
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy%20-%233B5526.svg?logo=sympy&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
-</p>
 
 ### 💻 Software and tools
 
