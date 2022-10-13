@@ -54,6 +54,8 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 <br>
 <br>
 
+# 📊 Github stats
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -62,8 +64,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JamieVos991's streak" src="https://github-readme-streak-stats.herokuapp.com?user=JamieVos991&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-
-# 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
