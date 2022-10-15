@@ -54,9 +54,7 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 <br>
 <br>
 
-# 📊 Github stats
-
-## 🔥 Streak stats
+## 📊 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
