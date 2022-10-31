@@ -21,7 +21,7 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
 </p>
 
-## 🛠️ Tools that i worked with
+## 🛠️ Tools that I worked with
 
 ### 👨‍💻 Programming languages and Frameworks
 
