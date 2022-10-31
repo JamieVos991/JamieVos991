@@ -39,6 +39,7 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
     <img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
     <img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
    <img align="left" alt="Composer" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/composer/composer-original.svg" style="padding-right:10px;"/>
+   <img align="left" alt="Taiwind" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;"/>
 </p>
 
 <br>
@@ -50,8 +51,9 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
      <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding right:10px;" />
    <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
   <img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding right:10px;" />
-  <img align="left" alt="Canva" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding right:10px;" />
-   <img align="left" alt="Canva" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding right:10px;" />
+  <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding right:10px;" />
+   <img align="left" alt="RPI" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding right:10px;" />
+   <img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" style="padding right:10px;" />
 </p>
 
 <br>
