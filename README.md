@@ -38,7 +38,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
     <img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" style="padding-right:10px;" />
     <img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
     <img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-   <img align="left" alt="Composer" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xd/xd-plain.svg" style="padding-right:10px;"/>
 </p>
 
 <br>
@@ -52,8 +51,7 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
   <img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding right:10px;" />
   <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding right:10px;" />
    <img align="left" alt="RPI" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding right:10px;" />
-   <img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" style="padding right:10px;" />
-     <img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" style="padding right:10px;" />
+ <img align="left" alt="Composer" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xd/xd-plain.svg" style="padding-right:10px;"/>
 </p>
 </p>
 
