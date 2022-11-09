@@ -37,7 +37,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
    <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
     <img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" style="padding-right:10px;" />
     <img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/eslint/eslint-original.svg" style="padding-right:10px;" />
-  />
 </p>
 
 <br>
