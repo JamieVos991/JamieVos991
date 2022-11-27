@@ -11,16 +11,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💞️ Fun Fact: Marvel fan😁
 
-## 🙋‍♂️ Connect with me
-
-<!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCGcCCIBv7Gchg-hgh_8_l7A"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="#"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://discord.gg/" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
-</p>
-
 ## 🛠️ Tools that I worked with
 
 ### 👨‍💻 Programming languages and Frameworks
