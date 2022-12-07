@@ -60,4 +60,4 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Jamie's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=JamieVos991)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jamie's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
