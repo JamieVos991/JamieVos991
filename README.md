@@ -6,10 +6,9 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 ## I'm a Student, Developer, and Learner!!
 
 - 👀 I’m interested in New Tech, Frontend Development, Backend development
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning front-end 
 - 📫 Trying to imporve myself everyday
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 💞️ Fun Fact: Marvel fan😁
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ## 🛠️ Tools that I worked with
 
