@@ -10,43 +10,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 - 📫 Trying to imporve myself everyday
 - 🥅 2024 Goals: Contribute more to Open Source projects
 
-## 🛠️ Tools that I worked with
-
-### 👨‍💻 Programming languages and Frameworks
-
-<p>
-    <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> 
-    <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding right:10px;" />
-    <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="Vue" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
-   <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/eslint/eslint-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
-</p>
-
-<br>
-<br>
-
-### 💻 Software and tools
-
-<p>
-     <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding right:10px;" />
-   <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-  <img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding right:10px;" />
-  <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding right:10px;" />
-   <img align="left" alt="RPI" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding right:10px;" />
- <img align="left" alt="Composer" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xd/xd-plain.svg" style="padding-right:10px;"/>
-</p>
-</p>
-
-<br>
-<br>
-
 ## 📊 Github stats
 <br>
 
