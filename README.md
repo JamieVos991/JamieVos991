@@ -21,5 +21,3 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 </p>
 
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Jamie's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=JamieVos991&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
