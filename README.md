@@ -11,6 +11,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 - 🥅 2025 Goals: Contribute more!
 
 ## 📊 Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieVos991&show_icons=true)
 
 
