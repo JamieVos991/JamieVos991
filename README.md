@@ -11,6 +11,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 - 🥅 2025 Goals: Contribute more!
 
 ## 📊 Github stats
-<img src="https://streak-stats.demolab.com?user=JamieVos991&theme=blood-dark" alt="GitHub Streak" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JamieVos991)](https://git.io/streak-stats)
 
 
