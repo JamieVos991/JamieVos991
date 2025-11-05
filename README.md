@@ -13,6 +13,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 ## 📊 Github stats
 <br>
 
-  [[GitHub Streak](https://streak-stats.demolab.com/?user=JamieVos991)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=JamieVos991)](https://git.io/streak-stats)
 
 
