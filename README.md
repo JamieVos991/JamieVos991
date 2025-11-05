@@ -11,6 +11,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 - 🥅 2025 Goals: Contribute more!
 
 ## 📊 Github stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JamieVos991)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashidul738&theme=dark)](https://git.io/streak-stats)
 
 
