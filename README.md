@@ -10,5 +10,5 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 - 📫 Trying to imporve myself everyday
 - 🥅 2026 Goals: Contribute more!
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JOUWGEBRUIKERSNAAM&show_icons=true&theme=dark)
 
