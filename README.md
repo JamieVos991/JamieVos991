@@ -7,8 +7,6 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 
 - 👀 I’m interested in New Tech, Frontend Development
 - 🌱 I’m currently learning front-end 
-- 📫 Trying to imporve myself everyday
+- 📫 Trying to improve myself everyday
 - 🥅 2026 Goals: Contribute more!
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieVos991&show_icons=true&theme=dark)
 
