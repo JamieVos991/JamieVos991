@@ -8,5 +8,5 @@ Welcome to JamieVos991's profile! <img src="https://media.giphy.com/media/12oufC
 - 👀 I’m interested in New Tech, Frontend Development
 - 🌱 I’m currently learning front-end 
 - 📫 Trying to improve myself everyday
-- 🥅 2026 Goals: Contribute more!
+- 🥅 2027 Goals: Contribute more!
 
